@@ -81,11 +81,11 @@
 		3C980C601BB6A80300D10EA6 /* Pong */ = {
 			isa = PBXGroup;
 			children = (
+				3C980C6B1BB6A80300D10EA6 /* Main.storyboard */,
 				3C980C651BB6A80300D10EA6 /* AppDelegate.h */,
 				3C980C661BB6A80300D10EA6 /* AppDelegate.m */,
 				3C980C681BB6A80300D10EA6 /* ViewController.h */,
 				3C980C691BB6A80300D10EA6 /* ViewController.m */,
-				3C980C6B1BB6A80300D10EA6 /* Main.storyboard */,
 				3C980C6E1BB6A80300D10EA6 /* Images.xcassets */,
 				3C980C701BB6A80300D10EA6 /* LaunchScreen.xib */,
 				3C980C611BB6A80300D10EA6 /* Supporting Files */,
